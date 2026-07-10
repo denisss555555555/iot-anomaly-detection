@@ -1,0 +1,4 @@
+Model,Accuracy,Macro_F1,Weighted_F1
+Random Forest,0.9735,0.96,0.97
+XGBoost,0.9748,0.97,0.97
+LightGBM,0.9763,0.97,0.98

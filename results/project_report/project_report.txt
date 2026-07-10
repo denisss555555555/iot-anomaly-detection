@@ -1,0 +1,38 @@
+
+ПРОЕКТЕН ОТЧЕТ
+
+Тема:
+Откриване на аномалии в IoT мрежов трафик чрез машинно обучение и обработка на големи данни
+
+Дата:
+26.05.2026 11:53
+
+Използван dataset:
+- CICIoT2023
+
+Използвани модели:
+- Random Forest
+- XGBoost
+- LightGBM
+- Isolation Forest
+
+Използвани библиотеки:
+- pandas
+- numpy
+- scikit-learn
+- xgboost
+- lightgbm
+- matplotlib
+
+Изпълнени задачи:
+- preprocessing
+- balancing
+- multiclass classification
+- binary classification
+- anomaly detection
+- feature importance analysis
+- validation evaluation
+- ROC-AUC analysis
+
+Финален резултат:
+Най-добри резултати показва моделът LightGBM.

@@ -1,0 +1,19 @@
+﻿# Големи набори от данни
+data/raw/
+data/processed/
+data/processed_all_classes/
+
+# Обучени модели
+models/*.pkl
+models/*.joblib
+
+# Виртуални среди и временни файлове
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+
+# Големи генерирани отчети
+results/final_pdf_report/*.pdf

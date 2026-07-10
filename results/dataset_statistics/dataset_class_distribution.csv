@@ -1,0 +1,17 @@
+label,count
+DDoS-TCP_Flood,30000
+DoS-TCP_Flood,30000
+DoS-UDP_Flood,30000
+Mirai-greeth_flood,30000
+MITM-ArpSpoofing,30000
+DoS-SYN_Flood,30000
+DDoS-UDP_Flood,30000
+DDoS-SYN_Flood,30000
+BenignTraffic,30000
+DDoS-PSHACK_Flood,30000
+Mirai-greip_flood,30000
+Mirai-udpplain,30000
+DDoS-ICMP_Flood,30000
+DNS_Spoofing,21214
+Recon-OSScan,11587
+DoS-HTTP_Flood,8487

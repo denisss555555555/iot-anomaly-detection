@@ -1,0 +1,2 @@
+{'subsample': 1.0, 'num_leaves': 128, 'n_estimators': 150, 'max_depth': 10, 'learning_rate': 0.1, 'colsample_bytree': 0.8}
+Best score: 0.9690992827015424
